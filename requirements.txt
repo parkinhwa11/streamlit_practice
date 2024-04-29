@@ -1,0 +1,8 @@
+matplotlib
+numpy
+seaborn
+streamlit
+folium
+konlpy
+streamlit_folium
+wordcloud
