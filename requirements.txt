@@ -6,3 +6,4 @@ folium
 konlpy
 streamlit_folium
 wordcloud
+openpyxl
