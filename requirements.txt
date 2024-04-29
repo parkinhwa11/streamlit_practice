@@ -6,4 +6,4 @@ folium
 konlpy
 streamlit_folium
 wordcloud
-openpyxl
+openpyxl==3.1.2
